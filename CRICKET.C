@@ -22,7 +22,7 @@ int main()
 	switch (choice)
 	{
 	    case 1:
-		printf("Enter runs scored in this ball: ");
+		printf("Enter runs scored in this over: ");
 		
 
 		scanf("%d", &runs);
